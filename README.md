@@ -1,4 +1,10 @@
 ### Hi there 👋
+* My name is Om Pathak and I am an Economic Sciences undergrad at IISER Bhopal.
+* I’m interested in Microeconomics, Game Theory, and Political Economy.
+* I’m currently learning Python and exploring the field of data science.
+* I enjoy reading poetry, quizzing, and debating.
+* I love discussing history, international relations, and contemporary politics.
+* How to reach me: om21@iiserb.ac.in
 
 <!--
 **om-pathak/om-pathak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
